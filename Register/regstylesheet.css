@@ -1,0 +1,18 @@
+input#a {
+    background: gray;
+    border: 0;
+}
+button[type="Get started"] {
+    color: white;
+    background: black;
+    border: none;
+    padding: 10px 25px;
+}
+p {
+    font-size: 14px;
+    text-align: center;
+}
+.picright {
+    background-color: gray;
+}
+
